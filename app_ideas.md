@@ -9,7 +9,7 @@ Group 26
 1. Sleep Cycle — app that monitors your sleep cycles in an effort to wake you up when you're in light sleep. it leaves users less groggy in the mornings, illustrates sleep data visually, analyzes sleep statistics over time. this app also is well-thought out in terms of building usage into routine because users use it nightly. 
 1. Bluestacks
 1. wechat  
-1. Yelp - 
+1. Yelp 
 ### Forest
 - **Category:** Lifestyle/Health 
    - **Mobile:** mobile first experience, primarily to keep user away from interacting with the device for the period of time they select.
